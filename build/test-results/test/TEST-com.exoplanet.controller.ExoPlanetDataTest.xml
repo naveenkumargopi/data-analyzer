@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.exoplanet.controller.ExoPlanetDataTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-06-21T13:07:49" hostname="thinkpad-e480" time="1.492">
+  <properties/>
+  <testcase name="testPlanetGroupsByYear_invalidInput" classname="com.exoplanet.controller.ExoPlanetDataTest" time="0.001"/>
+  <testcase name="testPlanetGroupsByYear_1" classname="com.exoplanet.controller.ExoPlanetDataTest" time="1.474"/>
+  <testcase name="testPlanetGroupsByYear_2" classname="com.exoplanet.controller.ExoPlanetDataTest" time="0.001"/>
+  <testcase name="testPlanetCatalogLoad" classname="com.exoplanet.controller.ExoPlanetDataTest" time="0.0"/>
+  <testcase name="testPlanetOrbitingHottestStar" classname="com.exoplanet.controller.ExoPlanetDataTest" time="0.003"/>
+  <testcase name="testOrphanPlanetsCount" classname="com.exoplanet.controller.ExoPlanetDataTest" time="0.012"/>
+  <system-out><![CDATA[897 small planets discovered in 2014
+30 medium planets discovered in 2014
+V391 Peg b orbits the hottest star with temp: 29300
+2 orphan planets has been found
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
